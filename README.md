@@ -1,4 +1,4 @@
-#Witaj!
+
 
 Dziękujemy za pobranie spolszczenia do DBM'a!
 Autor: Meffiu#9999
