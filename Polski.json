@@ -13,7 +13,7 @@
 	"Text": "Tekst",
 	"No Project Open": "Nie Otworzono Projektu!",
 	"One of more of the core modules of this project need to be updated. Would you like to update them? This will require an internet connection.": "Jeden z podstawowych modułów tego projektu wymaga aktualizacji. Czy chcesz je zaktualizować? Będzie to wymagało połączenia z Internetem.",
-	"Bot Owner Only": "Tylko Właściciel Bota",
+	"Bot Owner Only": "Tylko Właściciel Bota"
 	"There is an error with action: ": "Wystąpił błąd podczas działania: ",
 	"\"%1\" does not appear to be a valid node module.": "\"%1\" nie wydaje się być prawidłowym node modułem.",
 	"Not Installed": "Nie Zainstalowano",
